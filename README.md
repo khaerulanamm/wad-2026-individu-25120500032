@@ -1,5 +1,4 @@
-```markdown
-# Aplikasi Manajemen Tiket Event
+## Aplikasi Manajemen Tiket Event
 
 Sistem manajemen dan pemesanan tiket event full-stack berbasis **FastAPI** (Backend) dan **Vue 3** (Frontend).
 
