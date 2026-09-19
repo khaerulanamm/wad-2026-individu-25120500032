@@ -1,5 +1,4 @@
-```markdown
-# Aplikasi Manajemen Tiket Event — Tugas Individu WAD
+## Aplikasi Manajemen Tiket Event — Tugas Individu WAD
 
 Sistem manajemen dan pemesanan tiket event berbasis **FastAPI** (Backend) dan **Vue 3** (Frontend) yang dibangun untuk memenuhi kriteria Tugas Individu *Web Application Development*.
 
