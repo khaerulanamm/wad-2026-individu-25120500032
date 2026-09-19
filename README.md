@@ -1,5 +1,3 @@
-Berikut adalah isi utuh **`README.md`** dalam satu blok Markdown bersih yang siap kamu *copy-paste* langsung ke file repositorimu:
-
 ```markdown
 # Aplikasi Manajemen Tiket Event — Tugas Individu WAD
 
