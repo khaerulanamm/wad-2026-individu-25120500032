@@ -1,21 +1,4 @@
-Ternyata skrip `verify.py` mendeteksi bahwa **README.md utama di root folder** harus memiliki **5 judul bagian (*heading*) dengan nama yang sangat spesifik** berikut:
-
-1. **Prasyarat**
-2. **Layanan**
-3. **Cara menjalankan**
-4. **Cara memverifikasi**
-5. **Masalah yang sering muncul**
-
-Saat kita menggabungkannya tadi, nama-nama *heading* tersebut berubah sehingga skrip verifikasi menganggapnya belum ada.
-
----
-
-### Solusi: Ganti Isi `README.md` Utama (Root Folder)
-
-Buka file **`README.md`** di root folder repositorimu, lalu ganti seluruh isinya dengan format 5 bagian presisi di bawah ini:
-
-```markdown
-# Aplikasi Manajemen Tiket Event
+### Aplikasi Manajemen Tiket Event
 
 Proyek *Full-Stack Web Application* untuk sistem manajemen dan pemesanan tiket event berbasis FastAPI (Backend) dan Vue 3 (Frontend).
 
